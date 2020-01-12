@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ScanCounter" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ScanCounter" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="resource" />
+					<Add directory="../ListViewDLL/include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ScanCounter" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="../ListViewDLL/include" />
+					<Add directory="resource" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../ListViewDLL/bin/Release" />
+			<Add directory="../ScanCounter" />
+			<Add directory="resource" />
+			<Add directory="../TextDLL" />
+		</Compiler>
+		<Linker>
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+			<Add library="comctl32" />
+			<Add library="..\ListViewDLL\bin\Release\libListViewDLL.a" />
+			<Add library="..\TextDLL\bin\Release\libTextDLL.a" />
+			<Add directory="../ListViewDLL/bin/Release" />
+			<Add directory="../TextDLL/bin/Release" />
+		</Linker>
+		<Unit filename="include/ComboDate.h" />
+		<Unit filename="include/StringDate.h" />
+		<Unit filename="include/WinControl.h" />
+		<Unit filename="include/winApp.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mexcel.cpp" />
+		<Unit filename="mexcel.h" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="resource/resource.h" />
+		<Unit filename="src/ComboDate.cpp" />
+		<Unit filename="src/StringDate.cpp" />
+		<Unit filename="src/WinControl.cpp" />
+		<Unit filename="src/winApp.cpp" />
+		<Unit filename="tools.cpp" />
+		<Unit filename="tools.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

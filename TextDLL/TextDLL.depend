@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1459335355 source:c:\users\dimab\onedrive\documents\codeblocks project\textdll\main.cpp
+	"main.h"
+	<iostream>
+
+1459335345 c:\users\dimab\onedrive\documents\codeblocks project\textdll\main.h
+	<windows.h>
+
+1459416275 source:c:\users\dimab\onedrive\documents\codeblocks project\textdll\textdll.cpp
+	"TextDLL.h"
+
+1459417597 c:\users\dimab\onedrive\documents\codeblocks project\textdll\textdll.h
+	<windows.h>
+

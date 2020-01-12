@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463224954 source:c:\users\dimab\onedrive\documents\codeblocks project\listviewdll\src\listview.cpp
+	"ListView.h"
+
+1462444662 c:\users\dimab\onedrive\documents\codeblocks project\listviewdll\include\listview.h
+	<windows.h>
+	<CommCtrl.h>
+

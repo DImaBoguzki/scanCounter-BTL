@@ -1,0 +1,261 @@
+# depslib dependency file v1.0
+1462289744 source:c:\users\dimab\onedrive\documents\codeblocks project\scancounter\main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<windows.h>
+	<StringDate.h>
+	<winApp.h>
+	<WinControl.h>
+
+1461775004 source:c:\users\dimab\onedrive\documents\codeblocks project\scancounter\src\stringdate.cpp
+	"StringDate.h"
+
+1461774982 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\include\stringdate.h
+	<windows.h>
+	<stdio.h>
+
+1462178604 source:c:\users\dimab\onedrive\documents\codeblocks project\scancounter\src\winapp.cpp
+	"winApp.h"
+	"resource.h"
+
+1461577996 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\include\winapp.h
+	<Windows.h>
+	"WinControl.h"
+
+1462355306 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\include\wincontrol.h
+	<Windows.h>
+	"ListView.h"
+	"resource.h"
+	<StringDate.h>
+	<ComboDate.h>
+	<TextDLL.h>
+
+1462178174 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\resource\resource.h
+
+1463225209 source:c:\users\dimab\onedrive\documents\codeblocks project\scancounter\src\wincontrol.cpp
+	"WinControl.h"
+	"tools.h"
+	"mexcel.h"
+
+1462444662 c:\users\dimab\onedrive\documents\codeblocks project\listviewdll\include\listview.h
+	<windows.h>
+	<CommCtrl.h>
+
+1462399675 source:c:\users\dimab\onedrive\documents\codeblocks project\scancounter\tools.cpp
+	"tools.h"
+
+1462399675 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\tools.h
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	"mexcel.h"
+	<ListView.h>
+	<StringDate.h>
+
+1461584249 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\include\tools.h
+	<string>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
+1462286144 source:c:\users\cmmti\documents\code blocks\scancounter\main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<windows.h>
+	<StringDate.h>
+	<winApp.h>
+	<WinControl.h>
+
+1461771382 c:\users\cmmti\documents\code blocks\scancounter\include\stringdate.h
+	<windows.h>
+	<stdio.h>
+
+1461574396 c:\users\cmmti\documents\code blocks\scancounter\include\winapp.h
+	<Windows.h>
+	"WinControl.h"
+
+1462351706 c:\users\cmmti\documents\code blocks\scancounter\include\wincontrol.h
+	<Windows.h>
+	"ListView.h"
+	"resource.h"
+	<StringDate.h>
+	<ComboDate.h>
+	<TextDLL.h>
+
+1461577494 c:\users\cmmti\documents\code blocks\listviewdll\include\listview.h
+	<windows.h>
+	<CommCtrl.h>
+
+1457951260 c:\users\cmmti\documents\code blocks\scancounter\resource\resource.h
+
+1461771404 source:c:\users\cmmti\documents\code blocks\scancounter\src\stringdate.cpp
+	"StringDate.h"
+
+1462175004 source:c:\users\cmmti\documents\code blocks\scancounter\src\winapp.cpp
+	"winApp.h"
+	"resource.h"
+
+1462396075 source:c:\users\cmmti\documents\code blocks\scancounter\src\wincontrol.cpp
+	"WinControl.h"
+	"tools.h"
+	"mexcel.h"
+
+1461594332 c:\users\cmmti\documents\code blocks\scancounter\include\tools.h
+	<string>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
+1462396075 source:c:\users\cmmti\documents\code blocks\scancounter\tools.cpp
+	"tools.h"
+
+1462396075 c:\users\cmmti\documents\code blocks\scancounter\tools.h
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	"mexcel.h"
+	<ListView.h>
+	<StringDate.h>
+
+1461752764 source:c:\users\dimab\onedrive\documents\codeblocks project\scancounter\mexcel.cpp
+	"mexcel.h"
+	<string.h>
+	<stdlib.h>
+
+1461752750 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\mexcel.h
+	<stdio.h>
+	<string.h>
+	<vector>
+
+1461749164 source:c:\users\cmmti\documents\code blocks\scancounter\mexcel.cpp
+	"mexcel.h"
+	<string.h>
+	<stdlib.h>
+
+1461749150 c:\users\cmmti\documents\code blocks\scancounter\mexcel.h
+	<stdio.h>
+	<string.h>
+	<vector>
+
+1462178174 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\resource.h
+
+1462178370 source:c:\users\dimab\onedrive\documents\codeblocks project\scancounter\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1462266438 c:\users\dimab\onedrive\documents\codeblocks project\scancounter\include\combodate.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1462303014 source:c:\users\dimab\onedrive\documents\codeblocks project\scancounter\src\combodate.cpp
+	"ComboDate.h"
+
+1462174574 c:\users\cmmti\documents\code blocks\scancounter\resource.h
+
+1462262838 c:\users\cmmti\documents\code blocks\scancounter\include\combodate.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1462174770 source:c:\users\cmmti\documents\code blocks\scancounter\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1462299414 source:c:\users\cmmti\documents\code blocks\scancounter\src\combodate.cpp
+	"ComboDate.h"
+
+1462440465 c:\users\dimab\onedrive\documents\codeblocks project\textdll\textdll.h
+	<windows.h>
+
+1462386751 c:\users\cmmti\documents\code blocks\textdll\textdll.h
+	<windows.h>
+
+1462289744 source:c:\users\dimab\dropbox\codeblocks project\scancounter\main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<windows.h>
+	<StringDate.h>
+	<winApp.h>
+	<WinControl.h>
+
+1461774982 c:\users\dimab\dropbox\codeblocks project\scancounter\include\stringdate.h
+	<windows.h>
+	<stdio.h>
+
+1461577996 c:\users\dimab\dropbox\codeblocks project\scancounter\include\winapp.h
+	<Windows.h>
+	"WinControl.h"
+
+1462355306 c:\users\dimab\dropbox\codeblocks project\scancounter\include\wincontrol.h
+	<Windows.h>
+	"ListView.h"
+	"resource.h"
+	<StringDate.h>
+	<ComboDate.h>
+	<TextDLL.h>
+
+1462444662 c:\users\dimab\dropbox\codeblocks project\listviewdll\include\listview.h
+	<windows.h>
+	<CommCtrl.h>
+
+1462178174 c:\users\dimab\dropbox\codeblocks project\scancounter\resource.h
+
+1462266438 c:\users\dimab\dropbox\codeblocks project\scancounter\include\combodate.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1462440465 c:\users\dimab\dropbox\codeblocks project\textdll\textdll.h
+	<windows.h>
+
+1461752764 source:c:\users\dimab\dropbox\codeblocks project\scancounter\mexcel.cpp
+	"mexcel.h"
+	<string.h>
+	<stdlib.h>
+
+1461752750 c:\users\dimab\dropbox\codeblocks project\scancounter\mexcel.h
+	<stdio.h>
+	<string.h>
+	<vector>
+
+1462178370 source:c:\users\dimab\dropbox\codeblocks project\scancounter\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1462303014 source:c:\users\dimab\dropbox\codeblocks project\scancounter\src\combodate.cpp
+	"ComboDate.h"
+
+1461775004 source:c:\users\dimab\dropbox\codeblocks project\scancounter\src\stringdate.cpp
+	"StringDate.h"
+
+1462178604 source:c:\users\dimab\dropbox\codeblocks project\scancounter\src\winapp.cpp
+	"winApp.h"
+	"resource.h"
+
+1462399675 source:c:\users\dimab\dropbox\codeblocks project\scancounter\tools.cpp
+	"tools.h"
+
+1462399675 c:\users\dimab\dropbox\codeblocks project\scancounter\tools.h
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	"mexcel.h"
+	<ListView.h>
+	<StringDate.h>
+
